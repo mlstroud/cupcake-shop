@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.best {
+  font-weight: bold;
+  font-family: cursive;
+  color: purple;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
